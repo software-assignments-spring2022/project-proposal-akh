@@ -3,6 +3,11 @@
 ### Project title
 Blood Donation Web App (Work In Progress)
 
+### Contributors
+Alex Sheng
+Helen Dong
+Keyanee Alexandre
+
 ### What and why?
 Since the pandemic started blood donations have decreased by 10% and as of December 2021 the US blood supply is at its lowest level in a decade. The inventory of some blood types has dropped below one day’s supply in recent weeks, which is a dangerously low level. People use apps and websites to connect with others, find furniture,  restaurants, clothes, and other things that they need. The same technology can be used to create a centralized place to find blood donation centers and drives to help stop the shortage.
 
